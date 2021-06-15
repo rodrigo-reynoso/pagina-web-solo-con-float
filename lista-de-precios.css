@@ -1,0 +1,96 @@
+.tabla {
+  width: 100%;
+  margin: auto;
+  text-align: center;
+}
+.tablax4 {
+  width: 25%;
+  float: left;
+  margin-top: 20px;
+  box-sizing: border-box;
+}
+.tablaxd {
+  float: left;
+  width: 25%;
+  padding-top: 10px;
+}
+.caja-plan {
+  border: 1px solid #5c6552;
+  background-color: #30353c;
+}
+.caja-plan h4 {
+  margin-top: 10px;
+  color: seashell;
+}
+.plan-especial {
+  background-color: antiquewhite;
+  border: 2px solid rgba(0, 0, 0, 0.6);
+}
+.plan-especial h4 {
+  color: black;
+  font-weight: 800;
+}
+.icono-precio {
+  margin-top: 10px;
+  color: #85c34a;
+  font-size: 3em;
+}
+.agrandar {
+  font-size: 4em;
+}
+.fa-star {
+  font-size: 1em;
+  color: rgb(230, 175, 39);
+}
+.precio-1 {
+  /* margin-top: 15px; */
+  color: #85c34a;
+  font-size: 50px;
+  font-weight: bold;
+}
+.dolar {
+  vertical-align: super;
+  font-size: 20px;
+}
+.mes {
+  color: #999;
+  font-size: 12px;
+  vertical-align: -webkit-baseline-middle;
+  letter-spacing: 0.7px;
+}
+.lista-caracteristicas {
+  list-style: none;
+  padding: 20px 0;
+  color: #81867d;
+  padding-bottom: 50px;
+}
+.plan-especial ul {
+  padding-bottom: 37px;
+}
+.lista-espacio {
+  padding: 0.25em;
+  letter-spacing: 0.5px;
+}
+.boton-compra {
+  margin-bottom: 25px;
+}
+.boton-compra-a {
+  background-color: #85c34a;
+  padding: 0.5em 3em;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: antiquewhite;
+  letter-spacing: 1px;
+  transition: all 0.4s ease;
+}
+.boton-compra-a:hover {
+  background-color: #81867d;
+  transition: all 0.4s ease;
+}
+.boton-compra-a-especial {
+  padding: 1em 3em;
+  background-color: #81867d;
+}
+.boton-compra-a-especial:hover {
+  background-color: #85c34a;
+}

@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+header {
+  width: 100%;
+  height: 70px;
+  background-color: rgba(0, 0, 0, 0.8);
+  position: fixed;
+  z-index: 10;
+}
+.ancho {
+  width: 80%;
+  height: 70px;
+  margin: auto;
+}
+.logo {
+  width: 30%;
+  height: 70px;
+  padding-top: 10px;
+  box-sizing: border-box;
+  float: left;
+}
+.logo a {
+  font-size: 40px;
+  color: #fff;
+  text-decoration: none;
+}
+nav {
+  width: 70%;
+  height: 70px;
+  text-align: right;
+  float: left;
+  box-sizing: border-box;
+  padding-top: 20px;
+}
+nav ul li {
+  display: inline;
+}
+nav ul li a {
+  font-size: 20px;
+  margin-left: 20px;
+  font-weight: bold;
+  color: peru;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+nav ul li a:hover {
+  color: saddlebrown;
+}

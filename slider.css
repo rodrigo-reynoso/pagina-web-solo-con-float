@@ -1,0 +1,35 @@
+.ancho-letra-slider {
+  top: 200px;
+  width: 100%;
+  position: absolute;
+  text-align: center;
+}
+.ancho-letra-slider h1 {
+  font-size: 80px;
+  color: antiquewhite;
+}
+.ancho-letra-slider p {
+  font-size: 30px;
+  color: antiquewhite;
+  padding-top: 10px;
+}
+.testimonio {
+  float: left;
+  margin-top: 50px;
+}
+.slider-1 {
+  padding-bottom: 50px;
+  text-align: center;
+}
+.slider-1 img {
+  margin: auto;
+  padding-bottom: 20px;
+}
+.slider-1 h3 {
+  color: black;
+}
+.slider-1 h4 {
+  color: rgb(119, 119, 119);
+  letter-spacing: 0.5px;
+  padding-top: 8px;
+}

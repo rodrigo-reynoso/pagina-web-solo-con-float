@@ -1,0 +1,81 @@
+.redes {
+  position: fixed;
+  top: 200px;
+  left: 0;
+  z-index: 500;
+}
+#facebook a {
+  color: antiquewhite;
+  background-color: #3b5998;
+  padding: 10px 15px;
+  text-decoration: none;
+  width: 22px;
+  text-align: center;
+  transition: all 0.4s ease;
+}
+#facebook a:hover {
+  background-color: black;
+  padding: 10px 45px;
+  transition: all 0.4s ease;
+}
+#twitter a {
+  color: antiquewhite;
+  background-color: #00acee;
+  padding: 10px 15px;
+  text-decoration: none;
+  width: 22px;
+  text-align: center;
+  transition: all 0.4s ease;
+}
+#twitter a:hover {
+  background-color: black;
+  padding: 10px 45px;
+  transition: all 0.4s ease;
+}
+#youtube a {
+  color: antiquewhite;
+  background-color: #c4302b;
+  padding: 10px 15px;
+  text-decoration: none;
+  width: 22px;
+  text-align: center;
+  transition: all 0.4s ease;
+}
+#youtube a:hover {
+  background-color: black;
+  padding: 10px 45px;
+  transition: all 0.4s ease;
+}
+#correo a {
+  color: antiquewhite;
+  background-color: #ff8615;
+  padding: 10px 15px;
+  text-decoration: none;
+  width: 22px;
+  text-align: center;
+  transition: all 0.4s ease;
+}
+#correo a:hover {
+  background-color: black;
+  padding: 10px 45px;
+  transition: all 0.4s ease;
+}
+
+/* #iconos-redes a {
+  color: antiquewhite;
+  left: 0;
+  padding: 10px 15px;
+  text-decoration: none;
+} */
+/* .fa-facebook-f {
+  background-color: #3b5998;
+}
+.fa-twitter {
+  background-color: #00acee;
+}
+.fa-youtube {
+  background-color: #c4302b;
+}
+.fa-envelope {
+  background-color: #ff8615;
+} */

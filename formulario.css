@@ -1,0 +1,53 @@
+.dos-columnas {
+  width: 100%;
+  margin-top: 50px;
+}
+.formulario {
+  width: 50%;
+  float: left;
+  color: #777;
+}
+.caja-1 {
+  width: 175px;
+  height: 20px;
+  margin: 20px;
+  padding: 10px;
+}
+.caja-2 {
+  width: 422px;
+  height: 100px;
+  margin: 20px;
+  margin-bottom: 8px;
+  padding: 10px;
+}
+.correr-agrandar {
+  width: 400px;
+  margin: 0px 43px;
+  padding: 10px;
+}
+.contactos {
+  width: 50%;
+  float: left;
+  padding-top: 28px;
+}
+.caja-contacto {
+  width: 50%;
+  float: left;
+  text-align: center;
+  padding: 10px;
+  box-sizing: border-box;
+}
+.caja-contacto i {
+  font-size: 3em;
+  color: #85c34a;
+}
+.caja-contacto h4 {
+  color: rgb(119, 119, 119);
+  margin: 5px;
+}
+.caja-contacto h5 {
+  color: rgba(7, 7, 7, 0.5);
+  text-transform: unset;
+  font-weight: 750;
+  letter-spacing: 0.5px;
+}
